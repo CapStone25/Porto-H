@@ -91,7 +91,7 @@ function App() {
               <div className="text-center">
                 <Shield className="w-32 h-32 mx-auto mb-4 animate-pulse" />
                 <img
-                src='public/tanjiro-kamado-6082x5416-23027.jpg'
+                src='your-name-shooting-7680x4320-14938.jpg'
                 />
               </div>
             </div>
