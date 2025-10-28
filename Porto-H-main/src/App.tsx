@@ -110,7 +110,6 @@ function App() {
           <div className="relative mx-auto w-48 h-48 mb-8 group">
             <div className="absolute inset-0 rounded-full bg-gradient-to-r from-emerald-400 to-cyan-400 animate-spin-slow"></div>
             <div className="absolute inset-1 rounded-full bg-gray-900 flex items-center justify-center overflow-hidden">
-              {/* Placeholder for profile photo - user will replace this */}
               <div className="flex items-center justify-center w-full h-full">
                 <img
                 src="/MyPicture.jpg"
