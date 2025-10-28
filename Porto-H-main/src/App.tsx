@@ -91,7 +91,7 @@ function App() {
               <div className="text-center">
                 <Shield className="w-32 h-32 mx-auto mb-4 animate-pulse" />
                 <img
-                src='your-name-shooting-7680x4320-14938.jpg'
+                src='pexels-pixabay-301614.jpg'
                 />
               </div>
             </div>
